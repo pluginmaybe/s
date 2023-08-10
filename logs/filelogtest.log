@@ -1,0 +1,34 @@
+INFO:2023-08-10 11:42:22,163:Logging set up
+
+WARNING:2023-08-10 11:42:22,164:No arguments entered : Using defaults
+INFO:2023-08-10 11:42:22,180:db loaded and collated into dataframes completed
+INFO:2023-08-10 11:42:22,225:CSV conversion completed
+INFO:2023-08-10 11:42:22,226:Added 0 rows
+INFO:2023-08-10 11:42:22,276:New CSV saved. Process COMPLETE
+
+INFO:2023-08-10 11:43:06,737:Logging set up
+
+INFO:2023-08-10 11:43:06,739:db : ./dev/cademycode_updated.db 	old csv : ./csv/out.csv
+INFO:2023-08-10 11:43:06,754:db loaded and collated into dataframes completed
+INFO:2023-08-10 11:43:06,788:CSV conversion completed
+INFO:2023-08-10 11:43:06,788:Added 1000 rows
+INFO:2023-08-10 11:43:06,820:New CSV saved. Process COMPLETE
+
+INFO:2023-08-10 11:44:53,051:Logging set up
+
+INFO:2023-08-10 11:44:53,051:db : ./dev/cademycode.db 	old csv : ./csv/out.csv
+INFO:2023-08-10 11:44:53,065:db loaded and collated into dataframes completed
+INFO:2023-08-10 11:44:53,102:CSV conversion completed
+INFO:2023-08-10 11:44:53,102:Added -1000 rows
+INFO:2023-08-10 11:44:53,128:New CSV saved to ./csv/out.csv
+  Process COMPLETE
+
+INFO:2023-08-10 13:31:41,632:Logging set up
+
+WARNING:2023-08-10 13:31:41,633:No arguments entered : Using defaults
+INFO:2023-08-10 13:31:41,651:db loaded and collated into dataframes completed
+INFO:2023-08-10 13:31:41,689:CSV conversion completed
+INFO:2023-08-10 13:31:41,689:Added 0 rows
+INFO:2023-08-10 13:31:41,729:New CSV saved to ./csv/out.csv
+  Process COMPLETE
+
