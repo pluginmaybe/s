@@ -111,7 +111,8 @@ def main():
         return
     
     new_df = convert_db_to_csv(df_list)
-
+    # compare two df and add NEW lines
+    # create log of new lines
     length_diff = len(new_df) - len(old_df)
     logging.info(f"Added {length_diff} rows")
 
